@@ -1,0 +1,29 @@
+c $Id: sample.min,v 1.1 1999/11/17 03:26:31 jmmp Exp jmmp $
+c
+c Sample assignment problem in DIMACS minimum cost flow format
+c
+c
+p min 10 13
+n 1 1
+n 2 1
+n 3 1
+n 4 1
+n 5 1
+n 6 -1
+n 7 -1
+n 8 -1
+n 9 -1
+n 10 -1
+a 3 6 0 1 16
+a 2 8 0 1 66
+a 4 9 0 1 -32
+a 5 8 0 1 29
+a 1 7 0 1 13
+a 3 10 0 1 27
+a 2 9 0 1 -47
+a 3 9 0 1 -41
+a 2 7 0 1 790
+a 5 6 0 1 -27
+a 2 6 0 1 10
+a 5 9 0 1 351
+a 1 8 0 1 -27
